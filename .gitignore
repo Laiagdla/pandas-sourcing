@@ -5,6 +5,7 @@ __pycache__/
 *music.sqlite
 # C extensions
 *.so
+.python-version
 
 # Distribution / packaging
 .Python
